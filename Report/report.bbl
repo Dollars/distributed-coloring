@@ -1,0 +1,82 @@
+\begin{thebibliography}{}
+
+\bibitem[Aihara, 2009]{Aihara}
+Aihara, I. (2009).
+\newblock Modeling synchronized calling behavior of japanese tree frogs.
+\newblock {\em Phys. Rev. E}, 80:011918.
+
+\bibitem[Barenboim and Elkin, 2011]{Barenboim2011DDV}
+Barenboim, L. and Elkin, M. (2011).
+\newblock Deterministic distributed vertex coloring in polylogarithmic time.
+\newblock {\em J. ACM}, 58(5):23:1--23:25.
+
+\bibitem[Bl\"{o}chliger and Zufferey, 2008]{Blochliger2008GCH}
+Bl\"{o}chliger, I. and Zufferey, N. (2008).
+\newblock A graph coloring heuristic using partial solutions and a reactive
+  tabu scheme.
+\newblock {\em Comput. Oper. Res.}, 35(3):960--975.
+
+\bibitem[De~Marco and Pelc, 2001]{DeMarco2001FDG}
+De~Marco, G. and Pelc, A. (2001).
+\newblock Fast distributed graph coloring with o(\&dgr;) colors.
+\newblock In {\em Proceedings of the Twelfth Annual ACM-SIAM Symposium on
+  Discrete Algorithms}, SODA '01, pages 630--635, Philadelphia, PA, USA.
+  Society for Industrial and Applied Mathematics.
+
+\bibitem[Dorne et~al., 1998]{Dorne98anew}
+Dorne, R., kao Hao, J., Scientifique, P., and Besse, G. (1998).
+\newblock A new genetic local search algorithm for graph coloring.
+\newblock In {\em In Parallel Problem Solving from Nature - PPSN V, 5th
+  International Conference, volume 1498 of LNCS}, pages 745--754.
+  Springer-Verlag.
+
+\bibitem[Finocchi et~al., 2002]{Finocchi2002EAS}
+Finocchi, I., Panconesi, A., and Silvestri, R. (2002).
+\newblock Experimental analysis of simple, distributed vertex coloring
+  algorithms.
+\newblock In {\em Proceedings of the Thirteenth Annual ACM-SIAM Symposium on
+  Discrete Algorithms}, SODA '02, pages 606--615, Philadelphia, PA, USA.
+  Society for Industrial and Applied Mathematics.
+
+\bibitem[Hern{\'a}ndez, 2012]{HH12}
+Hern{\'a}ndez, H. (2012).
+\newblock {\em Swarm Intelligence Techniques for Optimization and Management
+  Tasks in Sensor Networks}.
+\newblock PhD thesis, Universitat Polit{\`e}cnica de Catalunya.
+
+\bibitem[Hern{\'a}ndez and Blum, 2010]{HB10}
+Hern{\'a}ndez, H. and Blum, C. (2010).
+\newblock Distributed graph coloring: An approach based on the calling behavior
+  of japanese tree frogs.
+\newblock {\em CoRR}, abs/1011.5349.
+
+\bibitem[Hertz et~al., 2008]{hertz2008}
+Hertz, A., Plumettaz, M., and Zufferey, N. (2008).
+\newblock Variable space search for graph coloring.
+\newblock {\em Discrete Applied Mathematics}, 156:2551--2560.
+
+\bibitem[Kubale and Kuszner, 2002]{KubaleKuzner}
+Kubale, M. and Kuszner, L. (2002).
+\newblock A better practical algorithm for distributed graph coloring.
+\newblock In {\em Parallel Computing in Electrical Engineering, 2002. PARELEC
+  '02. Proceedings. International Conference on}, pages 72--75.
+
+\bibitem[Lee and Lister, 2008]{Lee2008EDP}
+Lee, S. and Lister, R. (2008).
+\newblock Experiments in the dynamics of phase coupled oscillators when applied
+  to graph colouring.
+\newblock In {\em Proceedings of the Thirty-first Australasian Conference on
+  Computer Science - Volume 74}, ACSC '08, pages 83--89, Darlinghurst,
+  Australia, Australia. Australian Computer Society, Inc.
+
+\bibitem[Lee, 2010]{Lee2010}
+Lee, S.~A. (2010).
+\newblock k-phase oscillator synchronization for graph coloring.
+\newblock {\em Mathematics in Computer Science}, 3(1):61--72.
+
+\bibitem[Malaguti et~al., 2008]{Malaguti2008MAV}
+Malaguti, E., Monaci, M., and Toth, P. (2008).
+\newblock A metaheuristic approach for the vertex coloring problem.
+\newblock {\em INFORMS J. on Computing}, 20(2):302--316.
+
+\end{thebibliography}

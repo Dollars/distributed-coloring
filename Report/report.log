@@ -1,0 +1,680 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2013.11.10)  6 JAN 2014 18:02
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**report.tex
+(./report.tex
+LaTeX2e <2011/06/27>
+Babel <3.9f> and hyphenation patterns for 2 languages loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip43
+\bibsep=\skip44
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count87
+) (./alifexi.sty
+Conference Style for ALIFE XI
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count88
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 86.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 86.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 86.
+\titlebox=\skip45
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks15
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip46
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks16
+\ex@=\dimen105
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen106
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count89
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count90
+\leftroot@=\count91
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count92
+\DOTSCASE@=\count93
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen107
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count94
+\c@MaxMatrixCols=\count95
+\dotsspace@=\muskip10
+\c@parentequation=\count96
+\dspbrk@lvl=\count97
+\tag@help=\toks17
+\row@=\count98
+\column@=\count99
+\maxfields@=\count100
+\andhelp@=\toks18
+\eqnshift@=\dimen108
+\alignsep@=\dimen109
+\tagshift@=\dimen110
+\tagwidth@=\dimen111
+\totwidth@=\dimen112
+\lineht@=\dimen113
+\@envbody=\toks19
+\multlinegap=\skip47
+\multlinetaggap=\skip48
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count101
+\lst@gtempboxa=\box28
+\lst@token=\toks21
+\lst@length=\count102
+\lst@currlwidth=\dimen114
+\lst@column=\count103
+\lst@pos=\count104
+\lst@lostspace=\dimen115
+\lst@width=\dimen116
+\lst@newlines=\count105
+\lst@lineno=\count106
+\lst@maxwidth=\dimen117
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2013/07/10 1.5 (Carsten Heinz)
+\lst@fmtcurrindent=\dimen118
+\lst@newlinesensured=\count107
+\c@lstnumber=\count108
+\lst@skipnumbers=\count109
+\lst@framebox=\box29
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2013/06/27 1.5pre1 listings configuration
+))
+Package: listings 2013/07/10 1.5 (Carsten Heinz)
+
+(/usr/share/texmf/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+) (./report.aux)
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 40.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count110
+\scratchdimen=\dimen119
+\scratchbox=\box30
+\nofMPsegments=\count111
+\nofMParguments=\count112
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count113
+\MPscratchDim=\dimen120
+\MPnumerator=\count114
+\makeMPintoPDFobject=\count115
+\everyMPtoPDFconversion=\toks23
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\c@lstlisting=\count116
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 41.
+LaTeX Font Info:    Try loading font information for U+msa on input line 41.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 41.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 43.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 47.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 48.
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--52
+
+ []
+
+
+Underfull \hbox (badness 2181) in paragraph at lines 56--57
+ \OT1/ptm/b/n/10 Us-age \OT1/ptm/m/n/10 One of the most well known us-age of no
+n-
+ []
+
+
+Underfull \hbox (badness 1184) in paragraph at lines 62--63
+\OT1/ptm/m/n/10 no-mial al-go-rithm for which no de-ter-min-is-tic al-go-rithm
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
+
+ []
+
+
+Underfull \hbox (badness 1383) in paragraph at lines 64--65
+[]\OT1/ptm/m/n/10 This does not mean that no de-ter-min-is-tic al-go-rithm
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+
+ []
+
+
+Underfull \hbox (badness 2856) in paragraph at lines 69--70
+ \OT1/ptm/b/n/10 (Meta-)Heuristic \OT1/ptm/m/n/10 As dis-cussed pre-vi-ously, t
+he graph
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--70
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--72
+
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 76.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 76.
+
+Underfull \hbox (badness 5431) in paragraph at lines 81--82
+ \OT1/ptm/b/n/10 Evo-lu-tion-ary \OT1/ptm/m/n/10 The gen-eral evo-lu-tion-ary a
+l-go-rithm is
+ []
+
+
+Underfull \hbox (badness 2376) in paragraph at lines 81--82
+\OT1/ptm/m/n/10 heav-ily in-spired by the evo-lu-tion of a pop-u-la-tion as
+ []
+
+
+Underfull \hbox (badness 1448) in paragraph at lines 81--82
+\OT1/ptm/m/n/10 a pop-u-la-tion will evolve by re-pro-duc-tion,mutation and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--82
+
+ []
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+
+
+]
+Underfull \hbox (badness 1009) in paragraph at lines 86--87
+ \OT1/ptm/b/n/10 Tabu Search \OT1/ptm/m/n/10 The very gen-eral prin-ci-ple of t
+he Tabu
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--98
+
+ []
+
+
+Underfull \hbox (badness 1803) in paragraph at lines 99--100
+[]\OT1/ptm/m/n/10 The dis-tributed ap-proach de-pends on swarm in-tel-li-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--100
+
+ []
+
+
+Underfull \hbox (badness 1412) in paragraph at lines 101--102
+\OT1/ptm/m/n/10 de-signed around the idea of min-i-mal time com-plex-ity
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
+
+ []
+
+
+Underfull \hbox (badness 1152) in paragraph at lines 103--104
+\OT1/ptm/m/n/10 com-plex-ity, cal-cu-la-tion com-plex-ity as well as mes-sage
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
+
+ []
+
+
+Underfull \hbox (badness 1107) in paragraph at lines 105--106
+[]\OT1/ptm/m/n/10 Graph col-or-ing also al-lows even more spe-cial-iza-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--110
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--112
+
+ []
+
+
+Underfull \hbox (badness 1117) in paragraph at lines 113--114
+[]\OT1/ptm/m/n/10 The heuris-tic based on the call-ing be-haviour of the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
+
+ []
+
+
+Underfull \vbox (badness 1721) has occurred while \output is active []
+
+ [2]
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2013/06/27 1.5pre1 listings language file
+)
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 132.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+LaTeX Font Info:    Font shape `OT1/pcr/bx/n' in size <9> not available
+(Font)              Font shape `OT1/pcr/b/n' tried instead on input line 132.
+ (../Code/node.py)
+LaTeX Font Info:    Font shape `OT1/pcr/bx/n' in size <10> not available
+(Font)              Font shape `OT1/pcr/b/n' tried instead on input line 132.
+
+(../Code/node.py)
+Overfull \hbox (5.08156pt too wide) detected at line 160
+\OML/cmm/m/it/10 c[] \OT1/cmr/m/n/10 = [] []
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 166--167
+
+ []
+
+<./Figures/geometric.pdf, id=27, 301.125pt x 301.125pt>
+File: ./Figures/geometric.pdf Graphic file (type pdf)
+
+<use ./Figures/geometric.pdf>
+Package pdftex.def Info: ./Figures/geometric.pdf used on input line 171.
+(pdftex.def)             Requested size: 165.61925pt x 165.61925pt.
+
+<./Figures/geo-sub_fully_connected.pdf, id=28, 301.125pt x 301.125pt>
+File: ./Figures/geo-sub_fully_connected.pdf Graphic file (type pdf)
+
+<use ./Figures/geo-sub_fully_connected.pdf>
+Package pdftex.def Info: ./Figures/geo-sub_fully_connected.pdf used on input li
+ne 178.
+(pdftex.def)             Requested size: 165.61925pt x 165.61925pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<./Figures/geo-coloried.pdf, id=29, 301.125pt x 301.125pt>
+File: ./Figures/geo-coloried.pdf Graphic file (type pdf)
+
+<use ./Figures/geo-coloried.pdf>
+Package pdftex.def Info: ./Figures/geo-coloried.pdf used on input line 184.
+(pdftex.def)             Requested size: 165.61925pt x 165.61925pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<./Figures/alpha_50.pdf, id=30, 587.19376pt x 442.65375pt>
+File: ./Figures/alpha_50.pdf Graphic file (type pdf)
+
+<use ./Figures/alpha_50.pdf>
+Package pdftex.def Info: ./Figures/alpha_50.pdf used on input line 194.
+(pdftex.def)             Requested size: 234.87334pt x 177.05835pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[4 <./Figures/geometric.pdf> <./Figures/geo-sub_fully_connected.pdf
+
+pdfTeX warning: pdflatex (file ./Figures/geo-sub_fully_connected.pdf): PDF incl
+usion: multiple pdfs with page group included in a single page
+> <./Figures/geo-coloried.pdf
+
+pdfTeX warning: pdflatex (file ./Figures/geo-coloried.pdf): PDF inclusion: mult
+iple pdfs with page group included in a single page
+>] <./Figures/dyn_conv.pdf, id=13878, 587.19376pt x 442.65375pt>
+File: ./Figures/dyn_conv.pdf Graphic file (type pdf)
+
+<use ./Figures/dyn_conv.pdf>
+Package pdftex.def Info: ./Figures/dyn_conv.pdf used on input line 205.
+(pdftex.def)             Requested size: 234.87334pt x 177.05835pt.
+
+<./Figures/phase_avg.pdf, id=13879, 587.19376pt x 442.65375pt>
+File: ./Figures/phase_avg.pdf Graphic file (type pdf)
+
+<use ./Figures/phase_avg.pdf>
+Package pdftex.def Info: ./Figures/phase_avg.pdf used on input line 211.
+(pdftex.def)             Requested size: 234.87334pt x 177.05835pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
+
+ []
+
+<./Figures/GridTopologyExample.pdf, id=13880, 169.63374pt x 122.4575pt>
+File: ./Figures/GridTopologyExample.pdf Graphic file (type pdf)
+
+<use ./Figures/GridTopologyExample.pdf>
+Package pdftex.def Info: ./Figures/GridTopologyExample.pdf used on input line 2
+24.
+(pdftex.def)             Requested size: 169.63332pt x 122.45718pt.
+
+<./Figures/GridTopologyExampleColored.pdf, id=13881, 169.63374pt x 122.4575pt>
+File: ./Figures/GridTopologyExampleColored.pdf Graphic file (type pdf)
+
+<use ./Figures/GridTopologyExampleColored.pdf>
+Package pdftex.def Info: ./Figures/GridTopologyExampleColored.pdf used on input
+ line 232.
+(pdftex.def)             Requested size: 169.63332pt x 122.45718pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<./Figures/grid.pdf, id=13882, 301.125pt x 301.125pt>
+File: ./Figures/grid.pdf Graphic file (type pdf)
+ <use ./Figures/grid.pdf>
+Package pdftex.def Info: ./Figures/grid.pdf used on input line 240.
+(pdftex.def)             Requested size: 150.56212pt x 150.56212pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<./Figures/grid-coloration.pdf, id=13883, 301.125pt x 301.125pt>
+File: ./Figures/grid-coloration.pdf Graphic file (type pdf)
+
+<use ./Figures/grid-coloration.pdf>
+Package pdftex.def Info: ./Figures/grid-coloration.pdf used on input line 246.
+(pdftex.def)             Requested size: 150.56212pt x 150.56212pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[5 <./Figures/alpha_50.pdf> <./Figures/dyn_conv.pdf
+
+pdfTeX warning: pdflatex (file ./Figures/dyn_conv.pdf): PDF inclusion: multiple
+ pdfs with page group included in a single page
+> <./Figures/phase_avg.pdf
+
+pdfTeX warning: pdflatex (file ./Figures/phase_avg.pdf): PDF inclusion: multipl
+e pdfs with page group included in a single page
+> <./Figures/GridTopologyExample.pdf
+
+pdfTeX warning: pdflatex (file ./Figures/GridTopologyExample.pdf): PDF inclusio
+n: multiple pdfs with page group included in a single page
+>] <./Figures/grid_conv.pdf, id=13938, 587.19376pt x 442.65375pt>
+File: ./Figures/grid_conv.pdf Graphic file (type pdf)
+
+<use ./Figures/grid_conv.pdf>
+Package pdftex.def Info: ./Figures/grid_conv.pdf used on input line 255.
+(pdftex.def)             Requested size: 234.87334pt x 177.05835pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--265
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 268--269
+
+ []
+
+[6 <./Figures/GridTopologyExampleColored.pdf> <./Figures/grid.pdf
+
+pdfTeX warning: pdflatex (file ./Figures/grid.pdf): PDF inclusion: multiple pdf
+s with page group included in a single page
+> <./Figures/grid-coloration.pdf
+
+pdfTeX warning: pdflatex (file ./Figures/grid-coloration.pdf): PDF inclusion: m
+ultiple pdfs with page group included in a single page
+> <./Figures/grid_conv.pdf
+
+pdfTeX warning: pdflatex (file ./Figures/grid_conv.pdf): PDF inclusion: multipl
+e pdfs with page group included in a single page
+>]
+Underfull \hbox (badness 10000) in paragraph at lines 270--272
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 273--274
+
+ []
+
+(./report.bbl) [7] (./report.aux) ) 
+Here is how much of TeX's memory you used:
+ 4759 strings out of 495031
+ 64119 string characters out of 6181530
+ 169115 words of memory out of 5000000
+ 7865 multiletter control sequences out of 15000+600000
+ 28922 words of font info for 64 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 38i,16n,52p,744b,1148s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvi
+ps/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+ex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
+onts/symbols/msbm10.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/
+ucrb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on report.pdf (7 pages, 2818350 bytes).
+PDF statistics:
+ 16554 PDF objects out of 18468 (max. 8388607)
+ 9406 compressed objects within 95 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
+

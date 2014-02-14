@@ -1,0 +1,18 @@
+\beamer@endinputifotherversion {3.24pt}
+\beamer@sectionintoc {1}{Introduction}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{Summerize}{2}{0}{1}
+\beamer@subsectionintoc {1}{2}{Graph coloring problem}{3}{0}{1}
+\beamer@subsectionintoc {1}{3}{Practical applications}{4}{0}{1}
+\beamer@sectionintoc {2}{FrogSim algorithm}{5}{0}{2}
+\beamer@subsectionintoc {2}{1}{Other algorithms}{5}{0}{2}
+\beamer@subsectionintoc {2}{2}{Initialization}{6}{0}{2}
+\beamer@subsectionintoc {2}{3}{Phase 1}{7}{0}{2}
+\beamer@subsubsectionintoc {2}{3}{1}{Event}{7}{0}{2}
+\beamer@subsubsectionintoc {2}{3}{2}{The desynchronization principle}{8}{0}{2}
+\beamer@subsectionintoc {2}{4}{Phase 2}{9}{0}{2}
+\beamer@sectionintoc {3}{Results}{10}{0}{3}
+\beamer@subsectionintoc {3}{1}{Evolution of the coloring through an execution}{10}{0}{3}
+\beamer@subsectionintoc {3}{2}{Geometric topology}{30}{0}{3}
+\beamer@subsubsectionintoc {3}{2}{1}{Desynchronization}{32}{0}{3}
+\beamer@subsectionintoc {3}{3}{Grid topology}{33}{0}{3}
+\beamer@sectionintoc {4}{Conclusion}{34}{0}{4}
