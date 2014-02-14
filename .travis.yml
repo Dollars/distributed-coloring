@@ -1,7 +1,0 @@
-language: python
-python:
-  - "3.3"
-# command to install dependencies
-install: "pip install -r numpy scipy matplotlib graph-tool"
-# command to run tests
-script: nosetests
